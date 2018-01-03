@@ -45,7 +45,7 @@ def calc_pi(limitnumber):
                 b = eb
 
 
-# Creating a wrapper function that will uses calc_pi to generate our decimal places: display_pi_digits
+
 
 # In[53]:
 
